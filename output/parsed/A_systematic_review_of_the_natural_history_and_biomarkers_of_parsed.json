@@ -1,0 +1,42 @@
+{
+  "paper_id": "a7f0d39d83d36d86d8bc5230a247f06aa3b92fa0",
+  "title": "A systematic review of the natural history and biomarkers of primary lecithin:cholesterol acyltransferase deficiency",
+  "abstract": "Syndromes associated with LCAT deficiency, a rare autosomal recessive condition, include fish-eye disease (FED) and familial LCAT deficiency (FLD). FLD is more severe and characterized by early and progressive chronic kidney disease (CKD). No treatment is currently available for FLD, but novel therapeutics are under development. Furthermore, although biomarkers of LCAT deficiency have been identified, their suitability to monitor disease progression and therapeutic efficacy is unclear, as little data exist on the rate of progression of renal disease. Here, we systematically review observational studies of FLD, FED, and heterozygous subjects, which summarize available evidence on the natural history and biomarkers of LCAT deficiency, in order to guide the development of novel therapeutics. We identified 146 FLD and 53 FED patients from 219 publications, showing that both syndromes are characterized by early corneal opacity and markedly reduced HDL-C levels. Proteinuria/hematuria were the first signs of renal impairment in FLD, followed by rapid decline of renal function. Furthermore, LCAT activity toward endogenous substrates and the percentage of circulating esterified cholesterol (EC%) were the best discriminators between these two syndromes. In FLD, higher levels of total, non-HDL, and unesterified cholesterol were associated with severe CKD. We reveal a nonlinear association between LCAT activity and EC% levels, in which subnormal levels of LCAT activity were associated with normal EC%. This review provides the first step toward the identification of disease biomarkers to be used in clinical trials and suggests that restoring LCAT activity to subnormal levels may be sufficient to prevent renal disease progression.",
+  "authors": [
+    "C. Vitali",
+    "A. Bajaj",
+    "C. Nguyen",
+    "Jill Schnall",
+    "Jinbo Chen",
+    "K. Stylianou",
+    "D. Rader",
+    "M. Cuchel"
+  ],
+  "year": 2022,
+  "doi": "10.1016/j.jlr.2022.100169",
+  "journal": "Journal of Lipid Research",
+  "citation_count": 20,
+  "open_access": true,
+  "category": "clinical",
+  "search_query": "CDKL5 deficiency disorder clinical natural history patient",
+  "pdf_url": "http://www.jlr.org/article/S0022227522000025/pdf",
+  "pdf_local_path": null,
+  "pdf_available": false,
+  "parsed": {
+    "parser": "abstract_only",
+    "full_text": "Syndromes associated with LCAT deficiency, a rare autosomal recessive condition, include fish-eye disease (FED) and familial LCAT deficiency (FLD). FLD is more severe and characterized by early and progressive chronic kidney disease (CKD). No treatment is currently available for FLD, but novel therapeutics are under development. Furthermore, although biomarkers of LCAT deficiency have been identified, their suitability to monitor disease progression and therapeutic efficacy is unclear, as little data exist on the rate of progression of renal disease. Here, we systematically review observational studies of FLD, FED, and heterozygous subjects, which summarize available evidence on the natural history and biomarkers of LCAT deficiency, in order to guide the development of novel therapeutics. We identified 146 FLD and 53 FED patients from 219 publications, showing that both syndromes are characterized by early corneal opacity and markedly reduced HDL-C levels. Proteinuria/hematuria were the first signs of renal impairment in FLD, followed by rapid decline of renal function. Furthermore, LCAT activity toward endogenous substrates and the percentage of circulating esterified cholesterol (EC%) were the best discriminators between these two syndromes. In FLD, higher levels of total, non-HDL, and unesterified cholesterol were associated with severe CKD. We reveal a nonlinear association between LCAT activity and EC% levels, in which subnormal levels of LCAT activity were associated with normal EC%. This review provides the first step toward the identification of disease biomarkers to be used in clinical trials and suggests that restoring LCAT activity to subnormal levels may be sufficient to prevent renal disease progression.",
+    "sections": [
+      {
+        "type": "section",
+        "heading": "Abstract",
+        "text": "Syndromes associated with LCAT deficiency, a rare autosomal recessive condition, include fish-eye disease (FED) and familial LCAT deficiency (FLD). FLD is more severe and characterized by early and progressive chronic kidney disease (CKD). No treatment is currently available for FLD, but novel therapeutics are under development. Furthermore, although biomarkers of LCAT deficiency have been identified, their suitability to monitor disease progression and therapeutic efficacy is unclear, as little data exist on the rate of progression of renal disease. Here, we systematically review observational studies of FLD, FED, and heterozygous subjects, which summarize available evidence on the natural history and biomarkers of LCAT deficiency, in order to guide the development of novel therapeutics. We identified 146 FLD and 53 FED patients from 219 publications, showing that both syndromes are characterized by early corneal opacity and markedly reduced HDL-C levels. Proteinuria/hematuria were the first signs of renal impairment in FLD, followed by rapid decline of renal function. Furthermore, LCAT activity toward endogenous substrates and the percentage of circulating esterified cholesterol (EC%) were the best discriminators between these two syndromes. In FLD, higher levels of total, non-HDL, and unesterified cholesterol were associated with severe CKD. We reveal a nonlinear association between LCAT activity and EC% levels, in which subnormal levels of LCAT activity were associated with normal EC%. This review provides the first step toward the identification of disease biomarkers to be used in clinical trials and suggests that restoring LCAT activity to subnormal levels may be sufficient to prevent renal disease progression.",
+        "page": null
+      }
+    ],
+    "captions": [],
+    "references": [],
+    "n_pages": 0,
+    "n_figures": 0,
+    "n_tables": 0
+  }
+}
